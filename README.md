@@ -1,0 +1,2 @@
+# solitarysite.github.io
+Blog
